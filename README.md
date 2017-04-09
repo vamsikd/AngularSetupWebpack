@@ -12,7 +12,7 @@ npm install
 ## Run app 
 npm start
 
-##navagete to 
+## navagete to 
 http://localhost:8080
 
 
